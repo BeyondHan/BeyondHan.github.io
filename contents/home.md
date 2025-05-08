@@ -1,16 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![BeyondHan](https://img.shields.io/badge/BeyondHan-github-blue?logo=github)](https://github.com/BeyondHan)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Master's Degree in Mechanization Engineering in Agriculture, at Zhejiang University, China.
 
 #### Email
-sli[at]cumt.edu.cn
+22313003[at]zju.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.Sc. in Agricultural Mechanization Engineering, Zhejiang University, 2023—2026 (Expected).
+B.Eng. in Electronic and Information Engineering, Northwest A&F University, 2019—2023.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Soft Robotics, AI-Driven Systems for Biosystem Automation, Additive Manufacturing; Magnetic Fluid, Tactile Sensing, Bionics, UAVs and Deep Learning
