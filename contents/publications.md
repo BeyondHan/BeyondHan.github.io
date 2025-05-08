@@ -1,6 +1,6 @@
-- **C. Han**, Y. Ye, D. Du. Efficient Data-Driven Approach for Bending Deformation Capture of Fiber-Reinforced Soft Actuators. **Preprint**, May 2025. [[Private file]]
+- **C. Han**, Y. Ye, D. Du. Efficient Data-Driven Approach for Bending Deformation Capture of Fiber-Reinforced Soft Actuators. **Preprint**, May 2025. 
 
-- **C. Han**, Y. Ye. Towards Damage-less Robotic In-Situ Kiwifruit Maturity Recognition: A Gripper with Soft Magnetic Tactile Sensor. **Preprint**, May 2025. [[Private file]]
+- **C. Han**, Y. Ye. Towards Damage-less Robotic In-Situ Kiwifruit Maturity Recognition: A Gripper with Soft Magnetic Tactile Sensor. **Preprint**, May 2025. 
 
 - Huang, L., Fan, J., **C. Han**, D. Du. Methods and Instruments for the Evaluation of Food Texture: Advances and Perspectives. **Food Research International**, March 2025.
 
