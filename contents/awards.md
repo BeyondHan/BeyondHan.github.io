@@ -8,7 +8,7 @@
 - Outstanding Graduate Leader Award, Zhejiang University, 2023–2024  
 - Award of Honor for Graduate, Zhejiang University, 2023–2024  
 - Outstanding Graduate Student, Shaanxi & Northwest A&F University, Jun 2023  
-- National Scholarship, Northwest A&F University, Dec 2022  
+- National Scholarship, Ministry of Education of P. R. of China, Dec 2022  
 - President’s Scholarship (Top 1%), Northwest A&F University, Dec 2021  
 - First-Class Academic Scholarship (3 Consecutive Years), Northwest A&F University, 2019–2021  
 
