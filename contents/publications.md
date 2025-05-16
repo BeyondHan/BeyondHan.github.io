@@ -1,26 +1,21 @@
-- **C. Han**, Y. Ye, D. Du. Efficient Data-Driven Approach for Bending Deformation Capture of Fiber-Reinforced Soft Actuators. **Preprint**, May 2025. 
+Here is the requested list in Markdown format with your name and journal names bolded:
 
-- **C. Han**, Y. Ye. Towards Damage-less Robotic In-Situ Kiwifruit Maturity Recognition: A Gripper with Soft Magnetic Tactile Sensor. **Preprint**, May 2025. 
+### Journal Articles
 
-- Huang, L., Fan, J., **C. Han**, D. Du. Methods and Instruments for the Evaluation of Food Texture: Advances and Perspectives. **Food Research International**, March 2025.
+1. **C. Han**, Y. Ye, D. Du. “Efficient Data-Driven Approach for Bending Deformation Capture of Fiber-Reinforced Soft Actuators”, (decision pending). **International Conference on Intelligent Robots and Systems (IROS)**, May 2025.
+2. Y. Ye, **C. Han**, and D. Du, “Fluid-structure interaction modelling and analysis of soft fiber-reinforced bending actuator (under review),” **International Journal of Mechanical Sciences**, 202x.
+3. Y. Ye, **C. Han**, R. B. Scharff, et al., “Development of a novel variable-curvature soft gripper used for orientating broccoli in the trimming line,” **Computers and Electronics in Agriculture**, October 2024. [https://doi.org/10.1016/j.compag.2024.109267](https://doi.org/10.1016/j.compag.2024.109267)
+4. Y. Ye, R. B. Scharff, S. Long, **C. Han**, and D. Du, “Modelling of soft fiber-reinforced bending actuators through transfer learning from a machine learning algorithm trained from fem data,” **Sensors and Actuators A: Physical**, 2024. [https://doi.org//10.1016/j.sna.2024.115095](https://doi.org//10.1016/j.sna.2024.115095)
+5. Huang, L., Fan, J., **C. Han**, D. Du. “Methods and Instruments for the Evaluation of Food Texture: Advances and Perspectives.” **Food Research International**, March 2025. [https://doi.org/10.1016/j.foodres.2025.116162](https://doi.org/10.1016/j.foodres.2025.116162)
+6. Y. Zhou, ..., …, **C. Han**, Zhao, Y. “Feasibility and Potential of Terahertz Spectral and Imaging Technology for Apple Valsa Canker Detection: A Preliminary Investigation.” **Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy**, October 2024. [https://doi.org/10.1016/j.saa.2024.125308](https://doi.org/10.1016/j.saa.2024.125308) (Undergraduate Dissertation)
+7. **C. Han**, F. Qu, X. Wang, Y. Zhao. *Terahertz Spectroscopy and Imaging Techniques for Herbal Medicinal Plants Detection: A Comprehensive Review.* **Critical Reviews in Analytical Chemistry**, March 2023. [https://doi.org/10.1080/10408347.2023.2183077](https://doi.org/10.1080/10408347.2023.2183077)
+8. J. Guo, J. Bai, Y. Ye, **C. Han**, and W. Zhang, “A dataset of multi-source and multi-temporal remote sensing data of cash crop planting structure in Yangling agricultural demonstration zones,” **China Scientific Data**, vol. 8, 2023. [https://doi.org/10.11922/11-6035.noda.2022.0002.zh](https://doi.org/10.11922/11-6035.noda.2022.0002.zh)
 
-- Y. Ye, **C. Han**, S. Kang, D. Du. Development of a Novel Variable-Curvature Soft Gripper Used for Orientating Broccoli in the Trimming Line. **Computers and Electronics in Agriculture**, October 2024.
+### Conference Papers
 
-- Zhou, Y., Wang, X., Chen, K., **C. Han**, Zhao, Y. Feasibility and Potential of Terahertz Spectral and Imaging Technology for Apple Valsa Canker Detection: A Preliminary Investigation. **Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy**, October 2024.
+1. **C. Han** (Oral Presentation in Preparation), Y. Ye. “Towards Damage-less Robotic In-Situ Kiwifruit Maturity Recognition: A Gripper with Soft Magnetic Tactile Sensor,” **ASABE 2025 Annual International Meeting**, July 13, 2025. [https://doi.org/10.13031/aim.202500234](https://doi.org/10.13031/aim.202500234)
+2. Y. Sun, J. Zhang, **C. Han**, “A flower recognition system based on MobileNet for smart agriculture,” **2021 IEEE 3rd International Conference on Frontiers Technology of Information and Computer (ICFTIC)**, 2021. [https://doi.org/10.1109/ICFTIC54370.2021.9647097](https://doi.org/10.1109/ICFTIC54370.2021.9647097)
 
-- Y. Ye, R. Scharff, S. Long, **C. Han**, D. Du. Modelling of Soft Fiber-Reinforced Bending Actuators Through Transfer Learning from a Machine Learning Algorithm Trained from FEM Data. **Sensors and Actuators A: Physical**, February 2024.
-
-- Guo, J., Bai, J., Y. Ye, **C. Han**, Zhang, W. A Dataset of Multi-Source and Multi-Temporal Remote Sensing Data of Cash Crop Planting Structure in Yangling Agricultural Demonstration Zone. **China Scientific Data**, June 2023.
-
-- **C. Han**. Research on the Detection of Apple Tree Valsa Canker Based on Terahertz Spectroscopy. **Undergraduate Thesis**, June 2023. [[Private file]]
-
-- **C. Han**, F. Qu, X. Wang, Y. Zhao. Terahertz Spectroscopy and Imaging Techniques for Herbal Medicinal Plants Detection: A Comprehensive Review. **Critical Reviews in Analytical Chemistry**, March 2023.
-
-- Sun, Y., Zhang, J., **C. Han**. A Flower Recognition System Based on MobileNet for Smart Agriculture. **2021 IEEE 3rd International Conference on Frontiers Technology of Information and Computer (ICFTIC)**, November 2021.
-
-- **C. Han**. A Light Energy Charging Device for UAV. **Patent**, October 2021.
-
-- **C. Han**. New Micro Bionic Aircraft and Its Simulation Analysis Method. **Patent**, September 2021.
 
 
 <!-- - <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu . LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LaNCor)
