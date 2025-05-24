@@ -1,5 +1,3 @@
-Here is the requested list in Markdown format with your name and journal names bolded:
-
 ### Journal Articles
 
 1. **C. Han**, Y. Ye, D. Du. “Efficient Data-Driven Approach for Bending Deformation Capture of Fiber-Reinforced Soft Actuators”, (decision pending). **International Conference on Intelligent Robots and Systems (IROS)**, May 2025.
