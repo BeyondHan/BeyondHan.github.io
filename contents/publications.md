@@ -6,7 +6,7 @@
 
 3. **C. Han**, F. Qu, X. Wang, Y. Zhao. 'Terahertz Spectroscopy and Imaging Techniques for Herbal Medicinal Plants Detection: A Comprehensive Review,' **Critical Reviews in Analytical Chemistry** (Q2, IF=5.8), March 2023. [Paper](https://doi.org/10.1080/10408347.2023.2183077)
 
-4. **C. Han**, Y. Ye, D. Du. 'Efficient Data-Driven Approach for Bending Deformation Capture of Fiber-Reinforced Soft Actuators,' **Discover Robotics** (EI), 2025. (Online)
+4. **C. Han**, Y. Ye, D. Du. 'Efficient Data-Driven Approach for Bending Deformation Capture of Fiber-Reinforced Soft Actuators,' **Discover Robotics** (EI), January 2026. (Online)
 
 5. L. Huang, J. Fan, **C. Han**, D. Du. 'Methods and Instruments for the Evaluation of Food Texture: Advances and Perspectives,' **Food Research International** (Q1, IF=7.0), March 2025. [Paper](https://doi.org/10.1016/j.foodres.2025.116162)
 
@@ -26,9 +26,10 @@
 
 ### Patents (Authorized)
 
-1. **C. Han**, et al. 'An Autonomous Return UAV without Pesticide,' CN202121798491.0. Nov 2021.
-2. **C. Han**, et al. 'A Portable Building 3D Printing Robot,' CN202121080426.4. Dec 2021.
-3. **C. Han**, et al. 'A Solar Charging Device for UAVs,' CN202120473609.6. Oct 2021.
+1. D. Du, **C. Han**, J. Wang, Y. Ye. 'A Dual-Arm Rotary Robot for Stereoscopic Harvesting of Spherical Canopy Crops,' Chinese Invention Patent, ZL202410225813.4, CN117918126B. Authorized Apr 2026.
+2. **C. Han**, et al. 'An Autonomous Return UAV without Pesticide,' CN202121798491.0. Nov 2021.
+3. **C. Han**, et al. 'A Portable Building 3D Printing Robot,' CN202121080426.4. Dec 2021.
+4. **C. Han**, et al. 'A Solar Charging Device for UAVs,' CN202120473609.6. Oct 2021.
 
 ### Software Copyrights
 
